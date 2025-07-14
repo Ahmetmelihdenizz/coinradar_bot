@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+outputs/
+data/
+*.csv
+*.xlsx
+models/
+performance.csv
+ml_dataset.csv
